@@ -1,4 +1,4 @@
 utilities
 =========
 
-Some C++ utilities
+Some C/C++ utilities
