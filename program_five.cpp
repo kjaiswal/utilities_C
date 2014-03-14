@@ -25,7 +25,7 @@ public:
   }
 
   void displayCourseName(){
-    cout << "Welcome to course: " << courseName << "!"<< endl;
+    cout << "Welcome to course: " << getCourseName() << "!"<< endl;
   }
 };
 
