@@ -2,4 +2,4 @@
 --> if cin is trying to get integer and gets string or char instead it doesn't produce run-time error instead it continues without getting the integer and uses garbage values of the int variables. Also if say in "cin >> number1 >> number2;" it doesn't get number1 it doesn't even tries for number1 and skips the entire remaining statement.
 --> C++ is extensible language that means we can add our datatypes.
 --> Class defination end with a semicolon.
-
+--> A pair of values consisting of an IP address and a protocol port number that uniquely identifies a particular application running on a particular host in a computer network is called an endpoint.
