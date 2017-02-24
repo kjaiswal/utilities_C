@@ -7,3 +7,4 @@
 --> To compile endpoint_client.cpp use:
 
     g++ endpoint_client.cpp -o endpoint_client -lboost_system
+    g++ dns_resolver.cpp -lboost_system -pthread -g -o dns_resolver
