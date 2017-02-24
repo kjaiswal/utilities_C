@@ -5,6 +5,7 @@ using namespace boost;
 
 int main()
 {
+  //Assuming client knows server's ip and port
   std::string raw_ip_address = "127.0.0.1";
   unsigned short port_num = 3333;
 
