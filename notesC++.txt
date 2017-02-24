@@ -4,3 +4,6 @@
 --> Class defination end with a semicolon.
 --> A pair of values consisting of an IP address and a protocol port number that uniquely identifies a particular application running on a particular host in a computer network is called an endpoint.
 --> A socket intended to be used to send and receive data to and from a remote application or to initiate a connection establishment process with it is called an active socket, whereas a passive socket is the one used to passively wait for incoming connection requests from remote applications. Passive sockets don't take part in user data transmission.
+--> To compile endpoint_client.cpp use:
+
+    g++ endpoint_client.cpp -o endpoint_client -lboost_system
